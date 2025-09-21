@@ -1,11 +1,16 @@
 {
-  "id": "isphanya",
-  "title": "Isphanya",
-  "version": "1.0.0",
+  "id": "isphanya-foundryVTT-compendiums",
+  "title": "Isphanya Compendiums",
+  "description": "Compendios de Isphanya para FoundryVTT. Trabajo en curso.",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
+  "url": "https://github.com/mouse0270/foundryvtt-dungen",
+  "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/Test/module.json",
+  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/Test/isphanya-foundryVTT-compendiums.zip",
+  "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/Test/README.md",
   "relationships": {
     "requires": [
       {
