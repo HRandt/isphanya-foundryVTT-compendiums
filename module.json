@@ -1,0 +1,77 @@
+{
+  "id": "isphanya",
+  "title": "Isphanya",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "dnd5e-spellpoints",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Sara H. Randt",
+      "email": "contacto@thecottontales.es",
+      "url": "thecottontales.es",
+      "discord": "hrandt",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "el-grimorio-de-diaktoros",
+      "label": "El grimorio de Diáktoros",
+      "path": "packs/el-grimorio-de-diaktoros",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "el-bestiario-de-pitias",
+      "label": "El bestiario de Pitias",
+      "path": "packs/el-bestiario-de-pitias",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "la-guia-de-polibio",
+      "label": "La guía de Polibio",
+      "path": "packs/la-guia-de-polibio",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+	{
+		"name": "Isphanya",
+		"sorting": "m",
+		"color": "#B6261E",
+		"packs": [
+			"el-grimorio-de-diaktoros",
+			"el-bestiario-de-pitias",
+			"la-guia-de-polibio"
+		]
+	}
+]
+}
