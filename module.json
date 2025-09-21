@@ -8,8 +8,8 @@
     "verified": "12"
   },
   "url": "https://github.com/mouse0270/foundryvtt-dungen",
-  "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/Test/module.json",
-  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/Test/isphanya-foundryVTT-compendiums.zip",
+  "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v0.0.1-alpha/module.json",
+  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v0.0.1-alpha/isphanya-foundryVTT-compendiums.zip",
   "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/Test/README.md",
   "relationships": {
     "requires": [
