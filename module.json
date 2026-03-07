@@ -1,11 +1,10 @@
 {
   "id": "isphanya-foundryVTT-compendiums",
   "title": "Isphanya Compendiums",
-  "description": "Compendios de Isphanya para FoundryVTT. Trabajo en curso.",
-  "version": "0.0.1",
+  "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso. <br> Requiere https://foundryvtt.com/packages/dnd5e-spellpoints/</p>",
+  "version": "0.0.2",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "url": "https://github.com/HRandt/isphanya-foundryVTT-compendiums",
   "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v0.0.1-alpha/module.json",
@@ -35,48 +34,91 @@
       "label": "El grimorio de Diáktoros",
       "path": "packs/el-grimorio-de-diaktoros",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "el-bestiario-de-pitias",
       "label": "El bestiario de Pitias",
       "path": "packs/el-bestiario-de-pitias",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     },
     {
       "name": "la-guia-de-polibio",
       "label": "La guía de Polibio",
       "path": "packs/la-guia-de-polibio",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
+      }
+    },
+    {
+      "name": "el-grimorio-de-diaktoros-beta",
+      "label": "El grimorio de Diáktoros (BETA)",
+      "path": "packs/el-grimorio-de-diaktoros-beta",
+      "type": "Item",
       "system": "dnd5e",
-      "flags": {}
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "el-bestiario-de-pitias-beta",
+      "label": "El bestiario de Pitias (BETA)",
+      "path": "packs/el-bestiario-de-pitias-beta",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "la-guia-de-polibio-beta",
+      "label": "La guía de Polibio (BETA)",
+      "path": "packs/la-guia-de-polibio-beta",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
-	{
-		"name": "Isphanya",
-		"sorting": "m",
-		"color": "#B6261E",
-		"packs": [
-			"el-grimorio-de-diaktoros",
-			"el-bestiario-de-pitias",
-			"la-guia-de-polibio"
-		]
-	}
-]
+    {
+      "name": "Isphanya",
+      "sorting": "m",
+      "color": "#b6261e",
+      "packs": [
+        "el-grimorio-de-diaktoros",
+        "el-bestiario-de-pitias",
+        "la-guia-de-polibio"
+      ],
+      "folders": [
+        {
+        "name": "BETA",
+        "sorting": "a",
+        "color": "#d17b7b",
+        "packs": [
+        "el-grimorio-de-diaktoros-beta",
+        "el-bestiario-de-pitias-beta",
+        "la-guia-de-polibio-beta"
+        ]
+        }
+      ]
+    }
+  ],
+  "flags": {}
 }
