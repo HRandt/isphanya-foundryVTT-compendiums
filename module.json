@@ -2,7 +2,7 @@
   "id": "isphanya-foundryVTT-compendiums",
   "title": "Isphanya Compendiums",
   "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso. <br> Requiere https://foundryvtt.com/packages/dnd5e-spellpoints/</p>",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "compatibility": {
     "verified": "13"
   },
