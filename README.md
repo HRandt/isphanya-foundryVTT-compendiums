@@ -16,7 +16,9 @@ Este módulo se trata de un producto NO oficial, pero su desarrollo independient
 3. En tu rama, edita el module.json. Dentro del json debes añadir los datos de una nueva carpeta llamada `BETA - tuNick` y dentro de ella añade tres compendios: `La guía de Polibio (Beta - tuNick)`, `El grimorio de Diáktoros (Beta - tuNick)`, `El bestiario de Pitias (Beta - tuNick)`.
 4. Si no lo habías hecho ya, instala el sistema de DnD5e y el módulo de [dnd5e-spellpoints](https://github.com/misthero/dnd5e-spellpoints). Los compendios de Isphanya tienen dependencias de este módulo.
 5. Crea un mundo con el sistema de DnD5e y habilita los dos módulos: isphanya-foundryvtt-compendiums y dnd5e-spellpoints.
-6. Desbloquea los compendios que tienen tu nick, los cuales serán tus compendios personales. Añade y modifica en tus compendios personales los elementos que desees. Por favor, **no modifiques el resto de compendios**.
+6. Desbloquea los compendios que tienen tu nick, los cuales serán tus compendios personales. Añade y modifica en tus compendios personales los elementos que desees. Por favor, **no modifiques el resto de compendios**. Para hacer tus propias versiones de objetos que ya estén en un compendio general o de otros usuarios, cópiatelo a tu propio compendio y edita tu copia, no el original.
+
+Cualquier duda que tengas, no olvides que puedes consultarlo en la [comunidad de Discord de Isphanya](https://isphanya.thecottontales.es/comunidad/).
 
 ### A tener en cuenta
 - Modifica sólo los compendios que tienen tu nick. Respeta el de los demás.
