@@ -1,15 +1,8 @@
-2026/03/15-16:37:54.236121 7d43e333e6c0 Recovering log #87
-2026/03/15-16:37:54.238947 7d43e333e6c0 Delete type=0 #87
-2026/03/15-16:37:54.239005 7d43e333e6c0 Delete type=3 #86
-2026/03/15-17:58:13.457574 7d43d24f56c0 Level-0 table #91: started
-2026/03/15-17:58:13.458925 7d43d24f56c0 Level-0 table #91: 22771 bytes OK
-2026/03/15-17:58:13.460354 7d43d24f56c0 Delete type=0 #89
-2026/03/15-17:58:13.460698 7d43d24f56c0 Manual compaction at level-0 from '!folders!4TYoBW1tgeXljnVS' @ 72057594037927935 : 1 .. '!items.effects!vUd3XtHxcVhRO6Zs.bcTPZ6dJ4kHwaBRD' @ 0 : 0; will stop at (end)
-2026/03/15-17:58:13.460834 7d43d24f56c0 Manual compaction at level-1 from '!folders!4TYoBW1tgeXljnVS' @ 72057594037927935 : 1 .. '!items.effects!vUd3XtHxcVhRO6Zs.bcTPZ6dJ4kHwaBRD' @ 0 : 0; will stop at '!items.effects!vUd3XtHxcVhRO6Zs.bcTPZ6dJ4kHwaBRD' @ 727 : 1
-2026/03/15-17:58:13.460858 7d43d24f56c0 Compacting 1@1 + 1@2 files
-2026/03/15-17:58:13.463041 7d43d24f56c0 Generated table #92@1: 23 keys, 19852 bytes
-2026/03/15-17:58:13.463111 7d43d24f56c0 Compacted 1@1 + 1@2 files => 19852 bytes
-2026/03/15-17:58:13.464275 7d43d24f56c0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/03/15-17:58:13.464430 7d43d24f56c0 Delete type=2 #91
-2026/03/15-17:58:13.464565 7d43d24f56c0 Delete type=2 #85
-2026/03/15-17:58:13.473712 7d43d24f56c0 Manual compaction at level-1 from '!items.effects!vUd3XtHxcVhRO6Zs.bcTPZ6dJ4kHwaBRD' @ 727 : 1 .. '!items.effects!vUd3XtHxcVhRO6Zs.bcTPZ6dJ4kHwaBRD' @ 0 : 0; will stop at (end)
+2026/03/15-22:45:24.420420 75cf5fb6c6c0 Recovering log #105
+2026/03/15-22:45:24.423639 75cf5fb6c6c0 Delete type=0 #105
+2026/03/15-22:45:24.423702 75cf5fb6c6c0 Delete type=3 #103
+2026/03/15-22:45:35.590502 75cf465fc6c0 Level-0 table #110: started
+2026/03/15-22:45:35.590520 75cf465fc6c0 Level-0 table #110: 0 bytes OK
+2026/03/15-22:45:35.591464 75cf465fc6c0 Delete type=0 #108
+2026/03/15-22:45:35.591534 75cf465fc6c0 Manual compaction at level-0 from '!folders!4TYoBW1tgeXljnVS' @ 72057594037927935 : 1 .. '!items.effects!vUd3XtHxcVhRO6Zs.bcTPZ6dJ4kHwaBRD' @ 0 : 0; will stop at (end)
+2026/03/15-22:45:35.591562 75cf465fc6c0 Manual compaction at level-1 from '!folders!4TYoBW1tgeXljnVS' @ 72057594037927935 : 1 .. '!items.effects!vUd3XtHxcVhRO6Zs.bcTPZ6dJ4kHwaBRD' @ 0 : 0; will stop at (end)

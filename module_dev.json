@@ -10,7 +10,6 @@
   "manifest": "",
   "download": "",
   "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/Test/README.md",
-  "license": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/main/LICENSE.txt",
   "relationships": {
     "requires": [
       {
@@ -132,7 +131,7 @@
   ],
   "packFolders": [
     {
-      "name": "Isphanya",
+      "name": "Isphanya DEV",
       "sorting": "m",
       "color": "#b6261e",
       "packs": [
@@ -149,9 +148,9 @@
         "el-grimorio-de-diaktoros-beta-raul",
         "el-bestiario-de-pitias-beta-raul",
         "la-guia-de-polibio-beta-raul"
-        ]
+            ]
         },
-{
+        {
         "name": "BETA Randt",
         "sorting": "a",
         "color": "#d17b7b",
@@ -159,7 +158,7 @@
         "el-grimorio-de-diaktoros-beta-randt",
         "el-bestiario-de-pitias-beta-randt",
         "la-guia-de-polibio-beta-randt"
-        ]
+            ]
         }
       ]
     }
