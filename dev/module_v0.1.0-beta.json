@@ -1,0 +1,79 @@
+{
+  "id": "isphanya-compendiums",
+  "title": "Compendios de Isphanya",
+  "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso. <br> Requiere https://foundryvtt.com/packages/dnd5e-spellpoints/</p>",
+  "version": "0.1.0",
+  "compatibility": {
+    "verified": "13"
+  },
+  "url": "https://github.com/HRandt/isphanya-foundryVTT-compendiums",
+  "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v0.1.0-beta/module.json",
+  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v0.1.0-beta/isphanya-foundryVTT-compendiums_v0.1.0-beta.zip",
+  "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/Test/README.md",
+  "relationships": {
+    "requires": [
+      {
+        "id": "dnd5e-spellpoints",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Sara H. Randt",
+      "email": "contacto@thecottontales.es",
+      "url": "thecottontales.es",
+      "discord": "hrandt",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "el-grimorio-de-diaktoros",
+      "label": "El grimorio de Diáktoros",
+      "path": "packs/el-grimorio-de-diaktoros",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "el-bestiario-de-pitias",
+      "label": "El bestiario de Pitias",
+      "path": "packs/el-bestiario-de-pitias",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "la-guia-de-polibio",
+      "label": "La guía de Polibio",
+      "path": "packs/la-guia-de-polibio",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Isphanya",
+      "sorting": "m",
+      "color": "#b6261e",
+      "packs": [
+        "el-grimorio-de-diaktoros",
+        "el-bestiario-de-pitias",
+        "la-guia-de-polibio"
+      ]
+    }
+  ],
+  "flags": {}
+}
