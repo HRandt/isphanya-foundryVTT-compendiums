@@ -2,14 +2,15 @@
   "id": "isphanya-compendiums",
   "title": "Compendios de Isphanya",
   "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso. <br> Requiere https://foundryvtt.com/packages/dnd5e-spellpoints/</p>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "verified": "13"
   },
   "url": "https://github.com/HRandt/isphanya-foundryVTT-compendiums",
-  "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v0.1.0-beta/module.json",
-  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v0.1.0-beta/isphanya-foundryVTT-compendiums_v0.1.0-beta.zip",
+  "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/latest/download/module.json",
+  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v1.0.0/isphanya-foundryVTT-compendiums.zip",
   "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/Test/README.md",
+  "license": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/main/LICENSE.txt",
   "relationships": {
     "requires": [
       {
