@@ -1,7 +1,7 @@
-2026/03/15-19:08:15.683950 7cca853ee6c0 Recovering log #69
-2026/03/15-19:08:15.686535 7cca853ee6c0 Delete type=0 #69
-2026/03/15-19:08:15.686569 7cca853ee6c0 Delete type=3 #68
-2026/03/15-19:13:34.222497 7cca76e306c0 Level-0 table #73: started
-2026/03/15-19:13:34.222512 7cca76e306c0 Level-0 table #73: 0 bytes OK
-2026/03/15-19:13:34.223487 7cca76e306c0 Delete type=0 #71
-2026/03/15-19:13:34.229957 7cca76e306c0 Manual compaction at level-0 from '!folders!hesOtJ80NgRpQDed' @ 72057594037927935 : 1 .. '!items.effects!BaT1BcgVoxdijNzV.dnd5espellchange' @ 0 : 0; will stop at (end)
+2026/03/15-22:45:24.437350 75cf6036d6c0 Recovering log #82
+2026/03/15-22:45:24.440421 75cf6036d6c0 Delete type=3 #80
+2026/03/15-22:45:24.440491 75cf6036d6c0 Delete type=0 #82
+2026/03/15-22:45:35.593115 75cf465fc6c0 Level-0 table #87: started
+2026/03/15-22:45:35.593131 75cf465fc6c0 Level-0 table #87: 0 bytes OK
+2026/03/15-22:45:35.594097 75cf465fc6c0 Delete type=0 #85
+2026/03/15-22:45:35.596128 75cf465fc6c0 Manual compaction at level-0 from '!folders!hesOtJ80NgRpQDed' @ 72057594037927935 : 1 .. '!items.effects!BaT1BcgVoxdijNzV.dnd5espellchange' @ 0 : 0; will stop at (end)
