@@ -1,14 +1,14 @@
 {
   "id": "isphanya-foundryVTT-compendiums",
-  "title": "Isphanya Compendiums",
+  "title": "Compendios de Isphanya (DEV)",
   "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso. <br> Requiere https://foundryvtt.com/packages/dnd5e-spellpoints/</p>",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "compatibility": {
     "verified": "13"
   },
   "url": "https://github.com/HRandt/isphanya-foundryVTT-compendiums",
-  "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v0.0.1-alpha/module.json",
-  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v0.0.1-alpha/isphanya-foundryVTT-compendiums.zip",
+  "manifest": "",
+  "download": "",
   "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/Test/README.md",
   "relationships": {
     "requires": [
@@ -44,7 +44,7 @@
       "name": "el-bestiario-de-pitias",
       "label": "El bestiario de Pitias",
       "path": "packs/el-bestiario-de-pitias",
-      "type": "Item",
+      "type": "Actor",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -77,7 +77,7 @@
       "name": "el-bestiario-de-pitias-beta-raul",
       "label": "El bestiario de Pitias (BETA Raúl)",
       "path": "packs/el-bestiario-de-pitias-beta-raul",
-      "type": "Item",
+      "type": "Actor",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -110,7 +110,7 @@
       "name": "el-bestiario-de-pitias-beta-randt",
       "label": "El bestiario de Pitias (BETA Randt)",
       "path": "packs/el-bestiario-de-pitias-beta-randt",
-      "type": "Item",
+      "type": "Actor",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
