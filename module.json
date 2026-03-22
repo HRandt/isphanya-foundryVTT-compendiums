@@ -2,7 +2,7 @@
   "id": "isphanya-foundryVTT-compendiums",
   "title": "Compendios de Isphanya (DEV)",
   "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso. <br> Requiere https://foundryvtt.com/packages/dnd5e-spellpoints/</p>",
-  "version": "1.0.1",
+  "version": "0.0.7",
   "compatibility": {
     "verified": "13"
   },
@@ -127,6 +127,39 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "el-grimorio-de-diaktoros-beta-oeris",
+      "label": "El grimorio de Diáktoros (BETA Oeris)",
+      "path": "packs/el-grimorio-de-diaktoros-beta-oeris",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "el-bestiario-de-pitias-beta-oeris",
+      "label": "El bestiario de Pitias (BETA Oeris)",
+      "path": "packs/el-bestiario-de-pitias-beta-oeris",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "la-guia-de-polibio-beta-oeris",
+      "label": "La guía de Polibio (BETA Oeris)",
+      "path": "packs/la-guia-de-polibio-beta-oeris",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -158,6 +191,16 @@
         "el-grimorio-de-diaktoros-beta-randt",
         "el-bestiario-de-pitias-beta-randt",
         "la-guia-de-polibio-beta-randt"
+            ]
+        },
+        {
+        "name": "BETA Oeris",
+        "sorting": "a",
+        "color": "#d17b7b",
+        "packs": [
+        "el-grimorio-de-diaktoros-beta-oeris",
+        "el-bestiario-de-pitias-beta-oeris",
+        "la-guia-de-polibio-beta-oeris"
             ]
         }
       ]
