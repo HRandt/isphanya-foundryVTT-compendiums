@@ -1,15 +1,15 @@
 {
-  "id": "isphanya-compendiums",
-  "title": "Compendios de Isphanya",
-  "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso.</p>",
-  "version": "1.0.0",
+  "id": "isphanya-foundryVTT-compendiums",
+  "title": "Compendios de Isphanya (DEV)",
+  "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso. <br> Requiere https://foundryvtt.com/packages/dnd5e-spellpoints/</p>",
+  "version": "1.0.1",
   "compatibility": {
     "verified": "13"
   },
   "url": "https://github.com/HRandt/isphanya-foundryVTT-compendiums",
-  "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/latest/download/module.json",
-  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v1.0.0/isphanya-foundryVTT-compendiums.zip",
-  "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/main/README.md",
+  "manifest": "",
+  "download": "",
+  "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/Test/README.md",
   "relationships": {
     "requires": [
       {
@@ -61,17 +61,105 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "el-grimorio-de-diaktoros-beta-raul",
+      "label": "El grimorio de Diáktoros (BETA Raúl)",
+      "path": "packs/el-grimorio-de-diaktoros-beta-raul",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "el-bestiario-de-pitias-beta-raul",
+      "label": "El bestiario de Pitias (BETA Raúl)",
+      "path": "packs/el-bestiario-de-pitias-beta-raul",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "la-guia-de-polibio-beta-raul",
+      "label": "La guía de Polibio (BETA Raúl)",
+      "path": "packs/la-guia-de-polibio-beta-raul",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "el-grimorio-de-diaktoros-beta-randt",
+      "label": "El grimorio de Diáktoros (BETA Randt)",
+      "path": "packs/el-grimorio-de-diaktoros-beta-randt",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "el-bestiario-de-pitias-beta-randt",
+      "label": "El bestiario de Pitias (BETA Randt)",
+      "path": "packs/el-bestiario-de-pitias-beta-randt",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "la-guia-de-polibio-beta-randt",
+      "label": "La guía de Polibio (BETA Randt)",
+      "path": "packs/la-guia-de-polibio-beta-randt",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
     {
-      "name": "Isphanya",
+      "name": "Isphanya DEV",
       "sorting": "m",
       "color": "#b6261e",
       "packs": [
         "el-grimorio-de-diaktoros",
         "el-bestiario-de-pitias",
         "la-guia-de-polibio"
+      ],
+      "folders": [
+        {
+        "name": "BETA Raúl",
+        "sorting": "a",
+        "color": "#d17b7b",
+        "packs": [
+        "el-grimorio-de-diaktoros-beta-raul",
+        "el-bestiario-de-pitias-beta-raul",
+        "la-guia-de-polibio-beta-raul"
+            ]
+        },
+        {
+        "name": "BETA Randt",
+        "sorting": "a",
+        "color": "#d17b7b",
+        "packs": [
+        "el-grimorio-de-diaktoros-beta-randt",
+        "el-bestiario-de-pitias-beta-randt",
+        "la-guia-de-polibio-beta-randt"
+            ]
+        }
       ]
     }
   ],
