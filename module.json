@@ -10,6 +10,7 @@
   "manifest": "",
   "download": "",
   "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/Test/README.md",
+  "esmodules": [ "my-script.js" ],
   "relationships": {
     "requires": [
       {
