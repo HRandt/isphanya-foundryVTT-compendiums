@@ -39,7 +39,15 @@ Hooks.once("init", () => {
         }
     };
 
+    CONFIG.DND5E.languages.otros = {
+        label: "Otros métodos",
+        children: {
+            hofos: "Hofos",
+            kataneo: "Kataneo",
+            irrintzi: "Irrintzi",
+        }
+    };
 
-  CONFIG.DND5E.languages.hofos = "Hofos";
-  CONFIG.DND5E.languages.kataneo = "Kataneo";
+    CONFIG.DND5E.featureTypes.feat.subtypes.cultura = "Cultura";
+
 });
