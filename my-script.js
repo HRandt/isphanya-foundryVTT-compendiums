@@ -35,7 +35,8 @@ Hooks.once("init", () => {
             celestial: "Celestial",
             ctonico: "Ctónico",
             naturalis: "Naturalis",
-            cancionmundo: "La canción del mundo"
+            cancionmundo: "La canción del mundo",
+            platino: "Platino antiguo"
         }
     };
 
