@@ -50,5 +50,7 @@ Hooks.once("init", () => {
     };
 
     CONFIG.DND5E.featureTypes.feat.subtypes.cultura = "Cultura";
+    CONFIG.DND5E.featureTypes.class.subtypes.terreno = "Terreno predilecto";
+    CONFIG.DND5E.featureTypes.class.subtypes.enemigo = "Enemigo predilecto";
 
 });
