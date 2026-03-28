@@ -3,11 +3,25 @@ Compendios de FoundryVTT para el juego de rol [Isphanya](https://isphanya.thecot
 
 Este módulo se trata de un producto no oficial, pero su desarrollo independiente cuenta con el permiso del Equipo Isphanya. Para mayor conocimiento sobre la [licencia de Isphanya](https://isphanya.thecottontales.es/creadores/), visita su web. Consulta [LICENSE](https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/main/LICENSE.txt) para ver la licencia de este repositorio.
 
+## Qué incluyen los compendios actualmente
+- Idiomas
+- Culturas
+- Clases: Clérigo, Explorador, Bárbaro, Místico
+- Subclases: Heraldo, Funerario, Cazador, Augur
+- Especies: Caprina, Betizu, Faele, Humano greco
+- Trasfondos: Aldeano, Guardián de los antiguos secretos, Limpiador de dólmenes
+- Dotes: Acorazado, Afinidad elemental, Voluntad de hierro, Mejora de puntuación de característica
+- Conjuros: todos los necesarios hasta nivel 2-3 de las clases mencionadas
+- Listas de conjuros propias
+
 ## Cómo instalar el módulo para usarlo en tus partidas
 1. Copia este enlace: `https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/latest/download/module.json`
 2. En FoundryVTT, ve la sección de Módulos. Dale a *Instalar módulo*.
 3. En la nueva ventana, abajo, copia el enlace en la caja llamada *URL del manifiest* y dale al botón de *Instalar*.
 4. Probáblemente te pedirá instalar [dnd5e-spellpoints](https://github.com/misthero/dnd5e-spellpoints) como dependencia. Si no fuera así, instálalo también manualmente.
+
+## He encontrado un problema
+Puedes reportar errores de los compendios en [la pestaña de issues](https://github.com/HRandt/isphanya-foundryVTT-compendiums/issues).
 
 ## Cómo colaborar en el proyecto
 1. Clona el repositorio en tu pc, pero no en cualquier parte. La carpeta debe estar dentro de la carpeta donde se alojan tus datos de usuario de Foundry, NO la carpeta de instalación de Foundry. Puedes comprobar cuál es esta carpeta dentro de Foundry, en las dos tuercas, en la caja llamada *Ruta de datos de usuarios*. Si tu ruta es, por ejemplo, `C:/foundrydata/`, la ruta donde debes clonar el repositorio sería `C:/foundrydata/data/modules` y la carpeta del módulo debe llamárse`isphanya-foundryVTT-compendiums`.
