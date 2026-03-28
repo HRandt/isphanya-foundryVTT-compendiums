@@ -1,16 +1,17 @@
 {
   "id": "isphanya-foundryVTT-compendiums",
   "title": "Compendios de Isphanya (DEV)",
-  "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso. <br> Requiere https://foundryvtt.com/packages/dnd5e-spellpoints/</p>",
+  "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso. <br />Requiere https://foundryvtt.com/packages/dnd5e-spellpoints/</p>",
   "version": "1.0.1",
   "compatibility": {
     "verified": "13"
   },
   "url": "https://github.com/HRandt/isphanya-foundryVTT-compendiums",
   "manifest": "",
-  "download": "",
   "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/Test/README.md",
-  "esmodules": [ "my-script.js" ],
+  "esmodules": [
+    "my-script.js"
+  ],
   "relationships": {
     "requires": [
       {
@@ -161,6 +162,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "wiki",
+      "label": "Wiki",
+      "path": "packs/wiki",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "packFolders": [
@@ -171,41 +183,53 @@
       "packs": [
         "el-grimorio-de-diaktoros",
         "el-bestiario-de-pitias",
-        "la-guia-de-polibio"
+        "la-guia-de-polibio",
+        "wiki"
       ],
       "folders": [
         {
-        "name": "BETA Raúl",
-        "sorting": "a",
-        "color": "#d17b7b",
-        "packs": [
-        "el-grimorio-de-diaktoros-beta-raul",
-        "el-bestiario-de-pitias-beta-raul",
-        "la-guia-de-polibio-beta-raul"
-            ]
+          "name": "BETA Raúl",
+          "sorting": "a",
+          "color": "#d17b7b",
+          "packs": [
+            "el-grimorio-de-diaktoros-beta-raul",
+            "el-bestiario-de-pitias-beta-raul",
+            "la-guia-de-polibio-beta-raul"
+          ],
+          "folders": []
         },
         {
-        "name": "BETA Randt",
-        "sorting": "a",
-        "color": "#d17b7b",
-        "packs": [
-        "el-grimorio-de-diaktoros-beta-randt",
-        "el-bestiario-de-pitias-beta-randt",
-        "la-guia-de-polibio-beta-randt"
-            ]
+          "name": "BETA Randt",
+          "sorting": "a",
+          "color": "#d17b7b",
+          "packs": [
+            "el-grimorio-de-diaktoros-beta-randt",
+            "el-bestiario-de-pitias-beta-randt",
+            "la-guia-de-polibio-beta-randt"
+          ],
+          "folders": []
         },
         {
-        "name": "BETA Oeris",
-        "sorting": "a",
-        "color": "#d17b7b",
-        "packs": [
-        "el-grimorio-de-diaktoros-beta-oeris",
-        "el-bestiario-de-pitias-beta-oeris",
-        "la-guia-de-polibio-beta-oeris"
-            ]
+          "name": "BETA Oeris",
+          "sorting": "a",
+          "color": "#d17b7b",
+          "packs": [
+            "el-grimorio-de-diaktoros-beta-oeris",
+            "el-bestiario-de-pitias-beta-oeris",
+            "la-guia-de-polibio-beta-oeris"
+          ],
+          "folders": []
         }
       ]
     }
   ],
-  "flags": {}
+  "flags": {
+    "dnd5e": {
+      "spellLists": [
+        "Compendium.isphanya-foundryVTT-compendiums.wiki.JournalEntry.buvqC5qHrXs1kvP7.JournalEntryPage.bs9MYWRRnbbcnByG",
+        "Compendium.isphanya-foundryVTT-compendiums.wiki.JournalEntry.buvqC5qHrXs1kvP7.JournalEntryPage.QWUatlBYijcpluko",
+        "Compendium.isphanya-foundryVTT-compendiums.wiki.JournalEntry.buvqC5qHrXs1kvP7.JournalEntryPage.YDO58hKyUXcMhQat"
+      ]
+    }
+  }
 }
