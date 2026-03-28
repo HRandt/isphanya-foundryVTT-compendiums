@@ -6,8 +6,8 @@ Este módulo se trata de un producto no oficial, pero su desarrollo independient
 ## Qué incluyen los compendios actualmente
 - Idiomas
 - Culturas
-- Clases: Clérigo, Explorador, Bárbaro, Místico
-- Subclases: Heraldo, Funerario, Cazador, Augur
+- Clases: Clérigo, Explorador, Bárbaro, Místico, Paladín
+- Subclases: Heraldo, Funerario, Cazador, Augur, Devoción
 - Especies: Caprina, Betizu, Faele, Humano greco
 - Trasfondos: Aldeano, Guardián de los antiguos secretos, Limpiador de dólmenes
 - Dotes: Acorazado, Afinidad elemental, Voluntad de hierro, Mejora de puntuación de característica
