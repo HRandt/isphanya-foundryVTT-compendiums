@@ -9,7 +9,7 @@ Este módulo se trata de un producto no oficial, pero su desarrollo independient
 - Clases: Clérigo, Explorador, Bárbaro, Místico, Paladín
 - Subclases: Heraldo, Funerario, Cazador, Augur, Devoción
 - Especies: Caprina, Betizu, Faele, Humano greco
-- Trasfondos: Aldeano, Guardián de los antiguos secretos, Limpiador de dólmenes
+- Trasfondos: Aldeano, Guardián de los antiguos secretos, Limpiador de dólmenes, Mercader
 - Dotes: Acorazado, Afinidad elemental, Voluntad de hierro, Mejora de puntuación de característica
 - Conjuros: todos los necesarios hasta nivel 2-3 de las clases mencionadas y unos cuantos más
 - Listas de conjuros propias
