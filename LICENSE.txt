@@ -1,6 +1,6 @@
 # Licencia del proyecto
 Isphanya-foundryVTT-compendiums tiene una licencia [*Apache-2.0*](https://opensource.org/license/Apache-2.0), pero los recursos que aquí se emplean tienen sus propias licencias:
-- Los textos propios de Isphanya y los iconos `isphanya_official` tienen *Todos los derechos reservados*. Contamos con el permiso del *Equipo Isphanya* para usarlos.
+- Los textos propios de Isphanya y los iconos `isphanya_official` tienen *Todos los derechos reservados*. Contamos con el permiso del *Equipo Isphanya* para usarlos para el propósito de este módulo.
 - Los textos extraídos de DnD5e cuentan con licencia [*Creative Commons Attribution 4.0*](https://media.dndbeyond.com/compendium-images/srd/5.1/SRD_CC_v5.1.pdf).
 - Los iconos de `pf2` están bajo la [*Community Use Policy*](https://paizo.com/licenses/communityuse) de Paizo.
 
