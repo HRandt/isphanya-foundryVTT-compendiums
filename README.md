@@ -1,7 +1,7 @@
 # isphanya-foundryVTT-compendiums
 Compendios de FoundryVTT para el juego de rol [Isphanya](https://isphanya.thecottontales.es). Actualmente incompleto, poco a poco se irán añadiendo más elementos.
 
-Este módulo se trata de un producto NO oficial, pero su desarrollo independiente cuenta con el permiso del Equipo Isphanya. Para mayor conocimiento sobre la [licencia de Isphanya](https://isphanya.thecottontales.es/creadores/), visita su web.
+Este módulo se trata de un producto no oficial, pero su desarrollo independiente cuenta con el permiso del Equipo Isphanya. Para mayor conocimiento sobre la [licencia de Isphanya](https://isphanya.thecottontales.es/creadores/), visita su web. Consulta [LICENSE](https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/main/LICENSE.txt) para ver la licencia de este repositorio.
 
 ## Cómo instalar el módulo para usarlo en tus partidas
 1. Ve a la [última release](https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/latest) siguiendo este enlace. 
@@ -26,7 +26,7 @@ Cualquier duda que tengas puedes consultarlo en la [comunidad de Discord de Isph
 
 ### A tener en cuenta
 - Modifica sólo los compendios que tienen tu nick. Respeta el de los demás.
-- Como iconos, utiliza aquellos ubicados en `~/data/modules/isphanya-foundryVTT-compendiums/icons`.
+- Como iconos, utiliza aquellos ubicados en `~/data/modules/isphanya-foundryVTT-compendiums/icons` o los ubicados en la carpeta del sistema dnd5e.
 - No modifiques, añadas o elimines iconos de las carpetas de `isphanya_official` (iconos cedidos por Sara Randt, *Todos los derechos reservados*) y `pf2` (iconos del módulo de Pathfinder 2 para FoundryVTT, bajo la [*Community Use Policy*](https://paizo.com/licenses/communityuse) de Paizo). Por favor, haz un uso responsable de estos recursos y respeta sus licencias.
 - Si quieres añadir nuevos iconos, créate una nueva carpeta en `~/data/modules/isphanya-foundryVTT-compendiums/icons`. Por favor, comprueba que la licencia de dichos iconos es abierta o compatible con el proyecto antes de subirlos.
 
