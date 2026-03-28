@@ -1,7 +1,7 @@
-2026/03/28-11:56:10.184181 728ca5dee6c0 Recovering log #254
-2026/03/28-11:56:10.186766 728ca5dee6c0 Delete type=0 #254
-2026/03/28-11:56:10.186813 728ca5dee6c0 Delete type=3 #252
-2026/03/28-11:57:13.807422 728c97cd46c0 Level-0 table #259: started
-2026/03/28-11:57:13.807449 728c97cd46c0 Level-0 table #259: 0 bytes OK
-2026/03/28-11:57:13.808526 728c97cd46c0 Delete type=0 #257
-2026/03/28-11:57:13.811753 728c97cd46c0 Manual compaction at level-0 from '!folders!5Pp1DIVZf8Zc81eJ' @ 72057594037927935 : 1 .. '!items.effects!y3xfeD2WcXginUg7.HGtTN5utBdoMs37f' @ 0 : 0; will stop at (end)
+2026/03/28-11:57:16.962872 728ca55ed6c0 Recovering log #258
+2026/03/28-11:57:16.965488 728ca55ed6c0 Delete type=0 #258
+2026/03/28-11:57:16.965536 728ca55ed6c0 Delete type=3 #256
+2026/03/28-15:52:20.764482 728c97cd46c0 Level-0 table #263: started
+2026/03/28-15:52:20.764579 728c97cd46c0 Level-0 table #263: 0 bytes OK
+2026/03/28-15:52:20.766068 728c97cd46c0 Delete type=0 #261
+2026/03/28-15:52:20.768542 728c97cd46c0 Manual compaction at level-0 from '!folders!5Pp1DIVZf8Zc81eJ' @ 72057594037927935 : 1 .. '!items.effects!y3xfeD2WcXginUg7.HGtTN5utBdoMs37f' @ 0 : 0; will stop at (end)

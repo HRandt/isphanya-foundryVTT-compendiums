@@ -36,7 +36,8 @@ Hooks.once("init", () => {
             ctonico: "Ctónico",
             naturalis: "Naturalis",
             cancionmundo: "La canción del mundo",
-            platino: "Platino antiguo"
+            platino: "Platino antiguo",
+            dracónido: "Dracónido"
         }
     };
 
@@ -46,6 +47,7 @@ Hooks.once("init", () => {
             hofos: "Hofos",
             kataneo: "Kataneo",
             irrintzi: "Irrintzi",
+            pictovasco: "Pictogramas vascones",
         }
     };
 

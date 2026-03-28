@@ -1,8 +1,15 @@
-2026/03/28-11:56:10.227233 728ca65ef6c0 Recovering log #40
-2026/03/28-11:56:10.229900 728ca65ef6c0 Delete type=0 #40
-2026/03/28-11:56:10.229964 728ca65ef6c0 Delete type=3 #38
-2026/03/28-11:57:13.815187 728c97cd46c0 Level-0 table #46: started
-2026/03/28-11:57:13.815209 728c97cd46c0 Level-0 table #46: 0 bytes OK
-2026/03/28-11:57:13.816150 728c97cd46c0 Delete type=0 #44
-2026/03/28-11:57:13.816231 728c97cd46c0 Manual compaction at level-0 from '!journal!buvqC5qHrXs1kvP7' @ 72057594037927935 : 1 .. '!journal.pages!buvqC5qHrXs1kvP7.oAqUfF7HFA0v6RXn' @ 0 : 0; will stop at (end)
-2026/03/28-11:57:13.817372 728c97cd46c0 Manual compaction at level-1 from '!journal!buvqC5qHrXs1kvP7' @ 72057594037927935 : 1 .. '!journal.pages!buvqC5qHrXs1kvP7.oAqUfF7HFA0v6RXn' @ 0 : 0; will stop at (end)
+2026/03/28-11:57:17.002388 728ca55ed6c0 Recovering log #45
+2026/03/28-11:57:17.004856 728ca55ed6c0 Delete type=0 #45
+2026/03/28-11:57:17.004900 728ca55ed6c0 Delete type=3 #43
+2026/03/28-15:52:20.783099 728c97cd46c0 Level-0 table #50: started
+2026/03/28-15:52:20.784733 728c97cd46c0 Level-0 table #50: 51347 bytes OK
+2026/03/28-15:52:20.785946 728c97cd46c0 Delete type=0 #48
+2026/03/28-15:52:20.788999 728c97cd46c0 Manual compaction at level-0 from '!journal!buvqC5qHrXs1kvP7' @ 72057594037927935 : 1 .. '!journal.pages!buvqC5qHrXs1kvP7.oAqUfF7HFA0v6RXn' @ 0 : 0; will stop at (end)
+2026/03/28-15:52:20.789055 728c97cd46c0 Manual compaction at level-1 from '!journal!buvqC5qHrXs1kvP7' @ 72057594037927935 : 1 .. '!journal.pages!buvqC5qHrXs1kvP7.oAqUfF7HFA0v6RXn' @ 0 : 0; will stop at '!journal.pages!buvqC5qHrXs1kvP7.oAqUfF7HFA0v6RXn' @ 244 : 1
+2026/03/28-15:52:20.789065 728c97cd46c0 Compacting 1@1 + 1@2 files
+2026/03/28-15:52:20.790275 728c97cd46c0 Generated table #51@1: 6 keys, 6420 bytes
+2026/03/28-15:52:20.790300 728c97cd46c0 Compacted 1@1 + 1@2 files => 6420 bytes
+2026/03/28-15:52:20.791560 728c97cd46c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/28-15:52:20.791726 728c97cd46c0 Delete type=2 #50
+2026/03/28-15:52:20.791908 728c97cd46c0 Delete type=2 #42
+2026/03/28-15:52:20.797716 728c97cd46c0 Manual compaction at level-1 from '!journal.pages!buvqC5qHrXs1kvP7.oAqUfF7HFA0v6RXn' @ 244 : 1 .. '!journal.pages!buvqC5qHrXs1kvP7.oAqUfF7HFA0v6RXn' @ 0 : 0; will stop at (end)
