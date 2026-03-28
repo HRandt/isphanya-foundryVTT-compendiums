@@ -1,14 +1,7 @@
-2026/03/28-11:57:16.937417 728ca4dec6c0 Recovering log #275
-2026/03/28-11:57:16.939988 728ca4dec6c0 Delete type=3 #273
-2026/03/28-11:57:16.940054 728ca4dec6c0 Delete type=0 #275
-2026/03/28-15:52:20.746439 728c97cd46c0 Level-0 table #280: started
-2026/03/28-15:52:20.747935 728c97cd46c0 Level-0 table #280: 39291 bytes OK
-2026/03/28-15:52:20.749051 728c97cd46c0 Delete type=0 #278
-2026/03/28-15:52:20.757101 728c97cd46c0 Manual compaction at level-0 from '!actors!2RLKMFVH6qXOuwAS' @ 72057594037927935 : 1 .. '!folders!PmxtR3uQy6Tv4QN0' @ 0 : 0; will stop at '!actors.items!2RLKMFVH6qXOuwAS.phbaoiAttackSpir' @ 229 : 1
-2026/03/28-15:52:20.757112 728c97cd46c0 Compacting 1@0 + 1@1 files
-2026/03/28-15:52:20.758707 728c97cd46c0 Generated table #281@0: 45 keys, 59994 bytes
-2026/03/28-15:52:20.758723 728c97cd46c0 Compacted 1@0 + 1@1 files => 59994 bytes
-2026/03/28-15:52:20.759686 728c97cd46c0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/03/28-15:52:20.759757 728c97cd46c0 Delete type=2 #220
-2026/03/28-15:52:20.759934 728c97cd46c0 Delete type=2 #280
-2026/03/28-15:52:20.762148 728c97cd46c0 Manual compaction at level-0 from '!actors.items!2RLKMFVH6qXOuwAS.phbaoiAttackSpir' @ 229 : 1 .. '!folders!PmxtR3uQy6Tv4QN0' @ 0 : 0; will stop at (end)
+2026/03/28-15:52:24.018213 728ca65ef6c0 Recovering log #279
+2026/03/28-15:52:24.020748 728ca65ef6c0 Delete type=3 #277
+2026/03/28-15:52:24.020815 728ca65ef6c0 Delete type=0 #279
+2026/03/28-16:20:19.601390 728c97cd46c0 Level-0 table #285: started
+2026/03/28-16:20:19.601423 728c97cd46c0 Level-0 table #285: 0 bytes OK
+2026/03/28-16:20:19.602520 728c97cd46c0 Delete type=0 #283
+2026/03/28-16:20:19.602645 728c97cd46c0 Manual compaction at level-0 from '!actors!2RLKMFVH6qXOuwAS' @ 72057594037927935 : 1 .. '!folders!PmxtR3uQy6Tv4QN0' @ 0 : 0; will stop at (end)
