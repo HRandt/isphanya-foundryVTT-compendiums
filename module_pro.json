@@ -2,13 +2,13 @@
   "id": "isphanya-compendiums",
   "title": "Compendios de Isphanya",
   "description": "<p>Compendios de Isphanya para FoundryVTT. Trabajo en curso.</p>",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "compatibility": {
     "verified": "13"
   },
   "url": "https://github.com/HRandt/isphanya-foundryVTT-compendiums",
   "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/latest/download/module.json",
-  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v1.0.0/isphanya-foundryVTT-compendiums.zip",
+  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v2.0.0/isphanya-foundryVTT-compendiums.zip",
   "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/main/README.md",
   "relationships": {
     "requires": [
@@ -61,6 +61,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "wiki",
+      "label": "Wiki",
+      "path": "packs/wiki",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "packFolders": [
@@ -71,9 +82,19 @@
       "packs": [
         "el-grimorio-de-diaktoros",
         "el-bestiario-de-pitias",
-        "la-guia-de-polibio"
+        "la-guia-de-polibio",
+        "wiki"
       ]
     }
   ],
-  "flags": {}
+  "flags": {
+    "dnd5e": {
+      "spellLists": [
+        "Compendium.isphanya-foundryVTT-compendiums.wiki.JournalEntry.buvqC5qHrXs1kvP7.JournalEntryPage.bs9MYWRRnbbcnByG",
+        "Compendium.isphanya-foundryVTT-compendiums.wiki.JournalEntry.buvqC5qHrXs1kvP7.JournalEntryPage.QWUatlBYijcpluko",
+        "Compendium.isphanya-foundryVTT-compendiums.wiki.JournalEntry.buvqC5qHrXs1kvP7.JournalEntryPage.YDO58hKyUXcMhQat",
+        "Compendium.isphanya-foundryVTT-compendiums.wiki.JournalEntry.buvqC5qHrXs1kvP7.JournalEntryPage.oAqUfF7HFA0v6RXn"
+      ]
+    }
+  }
 }
