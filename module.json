@@ -8,9 +8,9 @@
   },
   "url": "https://github.com/HRandt/isphanya-foundryVTT-compendiums",
   "manifest": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/latest/download/module.json",
-  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v2.0.0/isphanya-foundryVTT-compendiums.zip",
+  "download": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/download/v2.0.1/isphanya-foundryVTT-compendiums_v2.0.1.zip",
   "readme": "https://github.com/HRandt/isphanya-foundryVTT-compendiums/blob/main/README.md",
-    "esmodules": [
+  "esmodules": [
     "my-script.js"
   ],
   "relationships": {
@@ -41,7 +41,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "el-bestiario-de-pitias",
@@ -52,7 +53,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "la-guia-de-polibio",
@@ -63,7 +65,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "wiki",
@@ -74,7 +77,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -87,7 +91,8 @@
         "el-bestiario-de-pitias",
         "la-guia-de-polibio",
         "wiki"
-      ]
+      ],
+      "folders": []
     }
   ],
   "flags": {

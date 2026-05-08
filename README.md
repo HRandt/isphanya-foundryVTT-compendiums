@@ -3,25 +3,12 @@ Compendios de FoundryVTT para el juego de rol [Isphanya](https://isphanya.thecot
 
 Este módulo se trata de un producto NO oficial, pero su desarrollo independiente cuenta con el permiso del Equipo Isphanya. Para mayor conocimiento sobre la [licencia de Isphanya](https://isphanya.thecottontales.es/creadores/), visita su web.
 
-## Qué incluyen los compendios actualmente
-- Idiomas
-- Culturas
-- Clases: Clérigo, Explorador, Bárbaro, Místico, Paladín
-- Subclases: Heraldo, Funerario, Cazador, Augur, Devoción
-- Especies: Caprina, Betizu, Faele, Humano greco
-- Trasfondos: Aldeano, Guardián de los antiguos secretos, Limpiador de dólmenes, Mercader
-- Dotes: Acorazado, Afinidad elemental, Voluntad de hierro, Mejora de puntuación de característica
-- Conjuros: todos los necesarios hasta nivel 2-3 de las clases mencionadas y unos cuantos más
-- Listas de conjuros propias
-
 ## Cómo instalar el módulo para usarlo en tus partidas
-1. Copia este enlace: `https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/latest/download/module.json`
-2. En FoundryVTT, ve la sección de Módulos. Dale a *Instalar módulo*.
-3. En la nueva ventana, abajo, copia el enlace en la caja llamada *URL del manifiest* y dale al botón de *Instalar*.
-4. Probáblemente te pedirá instalar [dnd5e-spellpoints](https://github.com/misthero/dnd5e-spellpoints) como dependencia. Si no fuera así, instálalo también manualmente.
-
-## He encontrado un problema
-Puedes reportar errores de los compendios en [la pestaña de issues](https://github.com/HRandt/isphanya-foundryVTT-compendiums/issues).
+1. Ve a la [última release](https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/latest) siguiendo este enlace. 
+2. En la lista de assets, localiza el llamado *module.json*. Haz click derecho en él y copia el enlace.
+3. En FoundryVTT, ve la sección de Módulos. Dale a *Instalar módulo*.
+4. En la nueva ventana, abajo, copia el enlace en la caja llamada *URL del manifiest* y dale al botón de *Instalar*.
+5. Probáblemente te pedirá instalar [dnd5e-spellpoints](https://github.com/misthero/dnd5e-spellpoints) como dependencia. Si no fuera así, instálalo también manualmente.
 
 ## Cómo colaborar en el proyecto
 1. Clona el repositorio en tu pc, pero no en cualquier parte. La carpeta debe estar dentro de la carpeta donde se alojan tus datos de usuario de Foundry, NO la carpeta de instalación de Foundry. Puedes comprobar cuál es esta carpeta dentro de Foundry, en las dos tuercas, en la caja llamada *Ruta de datos de usuarios*. Si tu ruta es, por ejemplo, `C:/foundrydata/`, la ruta donde debes clonar el repositorio sería `C:/foundrydata/data/modules` y la carpeta del módulo debe llamárse`isphanya-foundryVTT-compendiums`.
