@@ -50,6 +50,7 @@ Hooks.once("init", () => {
             kataneo: "Kataneo",
             irrintzi: "Irrintzi",
             pictovasco: "Pictogramas vascones",
+            germania: "Germanía"
         }
     };
     
@@ -210,4 +211,22 @@ Hooks.once("init", () => {
         isPhysical: true
     };
     CONFIG.DND5E.validProperties.weapon.add("talar");
+
+    CONFIG.DND5E.itemProperties.bronce = {
+        label: "Arma de Bronce",
+        isPhysical: true
+    };
+    CONFIG.DND5E.validProperties.weapon.add("bronce");
+
+    CONFIG.DND5E.itemProperties.hierro = {
+        label: "Arma de Hierro",
+        isPhysical: true
+    };
+    CONFIG.DND5E.validProperties.weapon.add("hierro");
+
+    CONFIG.DND5E.itemProperties.dorada = {
+        label: "Arma de Oro",
+        isPhysical: true
+    };
+    CONFIG.DND5E.validProperties.weapon.add("dorada");
 });
