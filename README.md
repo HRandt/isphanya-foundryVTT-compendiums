@@ -6,13 +6,15 @@ Este módulo se trata de un producto semi-oficial, pues su desarrollo es indepen
 ## Qué incluyen los compendios actualmente
 - Idiomas
 - Culturas
-- Clases (5/11): Clérigo, Explorador, Bárbaro, Místico, Paladín
-- Subclases (5/25): Heraldo, Funerario, Cazador, Augur, Devoción
-- Especies-razas (4/9): Caprina, Betizu, Faele, Humano greco
-- Trasfondos (4/28): Aldeano, Guardián de los antiguos secretos, Limpiador de dólmenes, Mercader
+- Propiedades de las armas
+- Clases (7/11): Bardo, Clérigo, Explorador, Bárbaro, Místico, Paladín, Pícaro
+- Subclases (6/25): Heraldo, Funerario, Cazador, Augur, Devoción, Guerrillero
+- Especies-razas (6/9): Caprina, Betizu, Faele, Humano greco, Humano fenicio, Suido
+- Trasfondos (5/28): Aldeano, Guardián de los antiguos secretos, Limpiador de dólmenes, Mercader, Guardián del bosque
 - Dotes (4/18): Acorazado, Afinidad elemental, Voluntad de hierro, Mejora de puntuación de característica
 - Conjuros: todos los necesarios hasta nivel 2-3 de las clases mencionadas y unos cuantos más
-- Listas de conjuros propias
+- Wiki: estados, listas de conjuros
+- Bestiario: guerrero kelt, cazador kelt
 
 ## Cómo instalar el módulo para usarlo en tus partidas
 1. Copia este enlace: `https://github.com/HRandt/isphanya-foundryVTT-compendiums/releases/latest/download/module.json`
@@ -22,25 +24,3 @@ Este módulo se trata de un producto semi-oficial, pues su desarrollo es indepen
 
 ## He encontrado un problema
 Puedes reportar errores de los compendios en [la pestaña de issues](https://github.com/HRandt/isphanya-foundryVTT-compendiums/issues).
-
-## Cómo colaborar en el proyecto
-1. Clona el repositorio en tu pc, pero no en cualquier parte. La carpeta debe estar dentro de la carpeta donde se alojan tus datos de usuario de Foundry, NO la carpeta de instalación de Foundry. Puedes comprobar cuál es esta carpeta dentro de Foundry, en las dos tuercas, en la caja llamada *Ruta de datos de usuarios*. Si tu ruta es, por ejemplo, `C:/foundrydata/`, la ruta donde debes clonar el repositorio sería `C:/foundrydata/data/modules` y la carpeta del módulo debe llamárse`isphanya-foundryVTT-compendiums`.
-2. Créate una rama con tu nick como nombre.
-3. En tu rama, haz los siguientes cambios de nombres:
-        `module.json` --> `module_pro.json`  (este es el json preparado para producción, no queremos modificarlo por error pero tampoco eliminarlo)
-        `module_dev.json` --> `module.json`  (este se el json preparado para desarrollo, en el que se trabaja)
-4. Edita el fichero `module.json` (el que antes se llamaba `module_dev.json`). Dentro de este json debes añadir los datos de una nueva carpeta llamada `BETA - tuNick` y dentro de ella añade tres compendios: `La guía de Polibio (Beta - tuNick)`, `El grimorio de Diáktoros (Beta - tuNick)`, `El bestiario de Pitias (Beta - tuNick)`. Usa de referencia los de otros usuarios para mantener la estructura.
-5. Si no lo habías hecho ya, instala el sistema de DnD5e y el módulo de [dnd5e-spellpoints](https://github.com/misthero/dnd5e-spellpoints). Los compendios de Isphanya tienen dependencias de este módulo.
-6. Crea un mundo con el sistema de DnD5e y habilita los dos módulos: isphanya-foundryvtt-compendiums y dnd5e-spellpoints.
-7. Desbloquea los compendios que tienen tu nick, los cuales serán tus compendios personales. Añade y modifica en tus compendios personales los elementos que desees. Por favor, **no modifiques el resto de compendios**. Para hacer tus propias versiones de objetos que ya estén en un compendio general o de otros usuarios, cópiatelo a tu propio compendio y edita tu copia, no el original.
-8. Cuando hayas terminado de hacer tus cambios, puedes realizar un pull-request a la rama de `DEV`.
-
-Cualquier duda que tengas puedes consultarlo en la [comunidad de Discord de Isphanya](https://isphanya.thecottontales.es/comunidad/).
-
-### A tener en cuenta
-- Modifica sólo los compendios que tienen tu nick. Respeta el de los demás.
-- Como iconos, utiliza aquellos ubicados en `~/data/modules/isphanya-foundryVTT-compendiums/icons`.
-- No modifiques, añadas o elimines iconos de las carpetas de `isphanya_official` (iconos cedidos por Sara Randt, *Todos los derechos reservados*) y `pf2` (iconos del módulo de Pathfinder 2 para FoundryVTT, bajo la [*Community Use Policy*](https://paizo.com/licenses/communityuse) de Paizo). Por favor, haz un uso responsable de estos recursos y respeta sus licencias.
-- Si quieres añadir nuevos iconos, créate una nueva carpeta en `~/data/modules/isphanya-foundryVTT-compendiums/icons`. Por favor, comprueba que la licencia de dichos iconos es abierta o compatible con el proyecto antes de subirlos.
-
-
