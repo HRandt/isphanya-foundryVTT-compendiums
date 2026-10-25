@@ -43,3 +43,4 @@ Cualquier duda que tengas puedes consultarlo en la [comunidad de Discord de Isph
 - No modifiques, añadas o elimines iconos de las carpetas de `isphanya_official` (iconos cedidos por Sara Randt, *Todos los derechos reservados*) y `pf2` (iconos del módulo de Pathfinder 2 para FoundryVTT, bajo la [*Community Use Policy*](https://paizo.com/licenses/communityuse) de Paizo). Por favor, haz un uso responsable de estos recursos y respeta sus licencias.
 - Si quieres añadir nuevos iconos, créate una nueva carpeta en `~/data/modules/isphanya-foundryVTT-compendiums/icons`. Por favor, comprueba que la licencia de dichos iconos es abierta o compatible con el proyecto antes de subirlos.
 
+
