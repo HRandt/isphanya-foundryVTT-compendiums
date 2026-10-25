@@ -1,7 +1,7 @@
 # isphanya-foundryVTT-compendiums
 Compendios de FoundryVTT para el juego de rol [Isphanya](https://isphanya.thecottontales.es). Actualmente incompleto, poco a poco se irán añadiendo más elementos.
 
-Este módulo se trata de un producto semi-oficial, pues su desarrollo es independiente pero cuenta con el apoyo del Equipo Isphanya. Para mayor conocimiento sobre la [licencia de Isphanya](https://isphanya.thecottontales.es/creadores/), visita su web.
+Este módulo se trata de un producto semi-oficial, pues su desarrollo es independiente a la editorial pero cuenta con el apoyo del Equipo Isphanya. Para mayor conocimiento sobre la [licencia de Isphanya](https://isphanya.thecottontales.es/creadores/), visita su web.
 
 ## Qué incluyen los compendios actualmente
 - Idiomas
